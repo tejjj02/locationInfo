@@ -1,6 +1,6 @@
 # Weather & Places Explorer
 
-This project is a simple web application that allows users to explore weather information and images of different locations. Users can enter a city or country name to get the current weather data and view related images.
+This project is a simple front-end web application that allows users to explore weather information and images of different locations. Users can enter a city or country name to get the current weather data and view related images.
 
 ## Project Structure
 
