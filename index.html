@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather & Places Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="image-grid" id="imageGrid"></div>
+
+    <div class="modal" id="inputModal">
+        <div class="modal-content">
+            <h2>Enter Location</h2>
+            <form id="locationForm">
+                <input type="text" id="locationInput" placeholder="Enter city or country...">
+                <button type="submit">Get Info</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="weather-info" id="weatherInfo">
+        <div class="weather-card">
+            <h2 id="locationName"></h2>
+            <p id="temperature"></p>
+            <p id="weatherDescription"></p>
+            <p id="humidity"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
