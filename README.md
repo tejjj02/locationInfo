@@ -32,6 +32,3 @@ This project is a simple front-end web application that allows users to explore 
 - [OpenWeatherMap API](https://openweathermap.org/api): Used to fetch current weather data.
 - [Unsplash API](https://unsplash.com/developers): Used to fetch images related to the location.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
