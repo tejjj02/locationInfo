@@ -4,8 +4,8 @@ const weatherInfo = document.getElementById('weatherInfo');
 const locationForm = document.getElementById('locationForm');
 const locationInput = document.getElementById('locationInput');
 
-const WEATHER_API_KEY = '0cce000925c64e970c43e77a71e46b47';
-const UNSPLASH_API_KEY = 'jFn-0MU23UEHBSD7SaFSVYj3fbYPEGlQh_YKptdotZ0';
+const WEATHER_API_KEY = 'your api key here';
+const UNSPLASH_API_KEY = 'your api key here';
 
 // DOM Elements
 const locationName = document.getElementById('locationName');
